@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KidsDrawGame</string>
+    <string name="continue_button">Start</string>
+    <string name="rule_list">This is, indeed, a simple game.</string>
+    <string name="game_title">Face Amaze</string>
+    <string name="rule_list2">Tú y un amigo dibujarán una figura. Cada uno de ustedes tendrá 10 segundos para dibujar una línea o forma. Después de 2 minutos, termina y ambos pueden maravillarse con su creación.</string>
+    <string name="color1">Red</string>"
+    <string name="color2">Blue</string>"
+    <string name="color3">Black</string>"
+    <string name="color4">Yellow</string>"
+</resources>
